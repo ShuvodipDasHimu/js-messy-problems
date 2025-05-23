@@ -40,13 +40,3 @@
 28. **Create a GitHub profile viewer using GitHub’s API (input a username and show profile details)**
 29. **Drag-and-drop functionality between two containers (JS + DOM)**
 30. **Build a notes app that stores notes in `localStorage` and loads on refresh**
-
----
-
-### 📌 Bonus: Progress Tracking Suggestion
-
-Create a GitHub repo named `30-JS-Challenges` and commit your solutions there. You’ll not only practice, but also **build a strong portfolio** as a frontend developer. Let me know if you want me to help with setting up that repo structure.
-
----
-
-Want the problems in a downloadable `.md` or `.pdf` format, or hosted as a challenge site using React? Let me know.
