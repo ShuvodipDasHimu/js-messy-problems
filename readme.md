@@ -3,7 +3,7 @@
 1. **Reverse a string** – Input: `"hello"` → Output: `"olleh"` ✅
 2. **Capitalize first letter of each word** – Input: `"my name is himu"` → Output: `"My Name Is Himu"` ✅
 3. **Count vowels in a string** ✅
-4. **Check if a number is prime**
+4. **Check if a number is prime** ✅
 5. **Find the maximum value in an array using ES6** ✅
 6. **Sum all numbers in an array using `.reduce()`**
 7. **Toggle a dark/light mode class on a button click**
